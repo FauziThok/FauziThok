@@ -1,8 +1,8 @@
 ### 💫 About Me:
 
 > I'm a data scientist in training, currently pursuing my MSc in Data Science.
-> I have a background in **Geophysics**, always curious about understanding the patterns of the geophysical hazard.
-> Enjoy learning new things :star_struck:
+> <br>I have a background in **Geophysics**, always curious about understanding the patterns of the geophysical hazard.
+> <br>Enjoy learning new things :star_struck:
 
 ---
 
