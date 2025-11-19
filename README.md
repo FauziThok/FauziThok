@@ -21,7 +21,7 @@
 <br/>![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 * **Data Science:** Pandas, NumPy, Scikit-learn, Tidyverse
 * **Visualization:** Matplotlib, Seaborn, ggplot2, Power BI
-* **Tools:** GitHub, VS Code, Jupyter, R Studio
+* **Tools:** Git, VS Code, Jupyter, R Studio
 
 ---
 
